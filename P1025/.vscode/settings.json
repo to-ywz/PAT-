@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "iomanip": "cpp"
+    },
+    "python.linting.pylintEnabled": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}

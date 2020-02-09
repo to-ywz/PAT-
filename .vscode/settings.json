@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "iomanip": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "ctype.h": "c",
+        "random": "c",
+        "cstdlib": "c",
+        "stdlib.h": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "ratio": "c"
+    },
+    "python.linting.pylintEnabled": true,
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
